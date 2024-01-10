@@ -1,0 +1,50 @@
+.titulo{
+    text-align:center;
+    font-size: x-large;
+}
+
+.azul{
+    background-color: blue;
+    width: 33%;
+    height: 250px ;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+.rojo{
+    background-color: red;
+    width: 33%;
+    height: 250px;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+.amarillo{
+    background-color: yellow;
+    width: 33%;
+    height: 250px;
+    text-align: center;
+    display: inline-block;
+}
+
+.verde{
+    background-color: green;
+    width:100%;
+    height: 50px;
+    text-align: center;
+    display: inline-block;
+}
+.subrayar{
+    text-decoration:underline;
+
+}
+
+.fondoazul{
+    background-color: aquamarine;
+}
+
+.linea{
+    display: inline-block;
+}
